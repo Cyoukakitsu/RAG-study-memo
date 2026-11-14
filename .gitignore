@@ -3,3 +3,5 @@ basicragenv/
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
+.env
+node_modules/
